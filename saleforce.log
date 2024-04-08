@@ -1,0 +1,912 @@
+2024-03-31 16:13:16,037 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 16:13:16,947 WARN  [Log] Please enter the correct password 
+2024-03-31 16:13:16,947 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 16:13:18,001 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 16:13:18,134 INFO  [Log] Successfully entered the usernamenaveen@road.com 
+2024-03-31 16:13:20,966 WARN  [Log] Please enter the correct password 
+2024-03-31 16:15:14,747 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 16:15:15,785 WARN  [Log] Please enter the correct password 
+2024-03-31 16:15:15,785 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 16:15:17,002 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 16:15:17,106 INFO  [Log] Successfully entered the usernamenaveen@road.com 
+2024-03-31 16:15:20,458 WARN  [Log] Please enter the correct password 
+2024-03-31 16:19:13,343 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 16:19:14,205 WARN  [Log] Please enter the correct password 
+2024-03-31 16:19:14,205 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 16:19:15,311 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 16:19:15,437 INFO  [Log] Successfully entered the usernamenaveen@road.com 
+2024-03-31 16:19:19,091 WARN  [Log] Please enter the correct password 
+2024-03-31 16:20:37,967 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 16:20:38,620 WARN  [Log] Please enter the correct password 
+2024-03-31 16:20:38,620 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 16:20:39,777 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 16:20:39,901 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 16:20:42,513 WARN  [Log] Please enter the correct password 
+2024-03-31 18:10:43,121 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 18:10:43,488 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 18:10:44,735 WARN  [Log] Please enter the correct password 
+2024-03-31 18:13:59,800 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 18:14:00,408 WARN  [Log] Please enter the correct password 
+2024-03-31 18:14:00,408 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 18:16:52,448 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 18:16:53,018 WARN  [Log] Please enter the correct password 
+2024-03-31 18:16:53,018 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 18:20:35,120 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 18:20:35,650 WARN  [Log] Please enter the correct password 
+2024-03-31 18:20:35,650 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 18:21:14,938 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 18:21:15,612 WARN  [Log] Please enter the correct password 
+2024-03-31 18:21:15,614 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 18:22:10,395 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 18:22:10,947 WARN  [Log] Please enter the correct password 
+2024-03-31 18:22:10,948 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 18:22:12,080 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 18:22:12,212 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 18:22:13,374 WARN  [Log] Please enter the correct password 
+2024-03-31 21:46:07,033 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 21:46:07,381 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 21:46:09,723 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 21:46:28,345 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 21:46:28,571 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 21:46:29,760 WARN  [Log] Please enter the correct password 
+2024-03-31 21:46:56,633 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 21:46:57,142 WARN  [Log] Please enter the correct password 
+2024-03-31 21:46:57,142 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 21:47:57,704 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 21:47:58,365 WARN  [Log] Please enter the correct password 
+2024-03-31 21:47:58,365 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 21:47:59,495 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 21:47:59,614 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 21:48:00,752 WARN  [Log] Please enter the correct password 
+2024-03-31 21:48:36,554 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 21:48:37,249 WARN  [Log] Please enter the correct password 
+2024-03-31 21:48:37,250 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 21:48:38,420 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 21:48:38,544 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 21:48:39,705 WARN  [Log] Please enter the correct password 
+2024-03-31 21:48:42,012 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 21:48:42,212 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 21:48:44,321 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:03:09,298 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:03:09,702 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:03:12,135 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:05:10,770 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:05:11,186 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:05:13,774 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:06:18,309 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:06:18,676 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:06:21,363 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:08:48,106 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:08:48,400 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:08:52,793 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:08:52,975 INFO  [Log] username displayed in usernamefield 
+2024-03-31 22:09:34,511 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:09:34,890 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:09:37,253 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:09:37,442 INFO  [Log] username displayed in usernamefield 
+2024-03-31 22:38:08,628 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:38:09,028 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:38:11,393 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:38:11,585 INFO  [Log] username displayed in usernamefield 
+2024-03-31 22:38:39,015 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:38:39,355 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:38:42,035 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:38:42,233 INFO  [Log] username displayed in usernamefield 
+2024-03-31 22:39:20,838 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:39:21,080 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:39:27,131 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:39:27,318 INFO  [Log] username displayed in usernamefield 
+2024-03-31 22:40:58,246 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:40:58,678 WARN  [Log] Please enter the correct password 
+2024-03-31 22:40:58,678 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 22:40:59,772 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:40:59,892 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:41:00,821 WARN  [Log] Please enter the correct password 
+2024-03-31 22:41:03,215 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:41:03,423 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:41:05,860 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:41:06,030 INFO  [Log] username displayed in usernamefield 
+2024-03-31 22:42:08,068 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:42:08,370 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:42:10,732 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:42:10,909 INFO  [Log] username displayed in usernamefield 
+2024-03-31 22:42:45,031 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:42:45,250 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:42:47,636 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 22:42:47,844 INFO  [Log] username displayed in usernamefield 
+2024-03-31 22:44:06,920 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:44:07,361 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:44:07,564 INFO  [Log] forgot password page 
+2024-03-31 22:58:36,474 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 22:58:36,697 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 22:58:37,005 INFO  [Log] forgot password page 
+2024-03-31 23:00:05,810 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:00:06,032 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:00:06,399 INFO  [Log] forgot password page 
+2024-03-31 23:00:06,862 INFO  [Log] Check your email page displayed 
+2024-03-31 23:15:26,706 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:15:26,903 INFO  [Log] Successfully entered the username123 
+2024-03-31 23:15:27,222 INFO  [Log] Error message displayed 
+2024-03-31 23:15:43,113 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:15:43,521 INFO  [Log] Successfully entered the username123 
+2024-03-31 23:15:43,837 INFO  [Log] Error message displayed 
+2024-03-31 23:16:38,863 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:16:39,491 WARN  [Log] Please enter the correct password 
+2024-03-31 23:16:39,491 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 23:16:40,625 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:16:40,757 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:16:41,884 WARN  [Log] Please enter the correct password 
+2024-03-31 23:16:44,057 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:16:44,243 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:16:46,645 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 23:16:46,821 INFO  [Log] username displayed in usernamefield 
+2024-03-31 23:16:47,954 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:16:48,139 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:16:48,429 INFO  [Log] forgot password page 
+2024-03-31 23:16:48,864 INFO  [Log] Check your email page displayed 
+2024-03-31 23:16:49,960 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:16:50,117 INFO  [Log] Successfully entered the username123 
+2024-03-31 23:16:50,414 INFO  [Log] Error message displayed 
+2024-03-31 23:34:31,204 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:34:31,557 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:34:32,723 INFO  [Log] Entered in to the homepage 
+2024-03-31 23:35:31,344 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:35:31,684 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:35:32,840 INFO  [Log] Entered in to the homepage 
+2024-03-31 23:35:34,555 INFO  [Log] usermenudropdown visibled 
+2024-03-31 23:37:47,827 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:37:48,465 WARN  [Log] Please enter the correct password 
+2024-03-31 23:37:48,465 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 23:37:49,662 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:37:49,799 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:37:50,940 WARN  [Log] Please enter the correct password 
+2024-03-31 23:37:53,324 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:37:53,660 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:37:55,823 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 23:37:56,004 INFO  [Log] username displayed in usernamefield 
+2024-03-31 23:37:57,062 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:37:57,360 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:37:57,507 INFO  [Log] forgot password page 
+2024-03-31 23:37:59,091 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:37:59,236 INFO  [Log] Successfully entered the username123 
+2024-03-31 23:37:59,567 INFO  [Log] Error message displayed 
+2024-03-31 23:38:00,839 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:38:00,975 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:38:01,561 INFO  [Log] Entered in to the homepage 
+2024-03-31 23:38:04,255 INFO  [Log] usermenudropdown visibled 
+2024-03-31 23:40:27,175 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:40:27,784 WARN  [Log] Please enter the correct password 
+2024-03-31 23:40:27,785 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-31 23:40:28,907 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:40:29,031 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:40:30,136 WARN  [Log] Please enter the correct password 
+2024-03-31 23:40:32,354 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:40:32,533 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:40:34,753 INFO  [Log] usemenu dropdown clicked 
+2024-03-31 23:40:34,937 INFO  [Log] username displayed in usernamefield 
+2024-03-31 23:40:36,091 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:40:36,283 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:40:36,554 INFO  [Log] forgot password page 
+2024-03-31 23:40:37,926 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:40:38,074 INFO  [Log] Successfully entered the username123 
+2024-03-31 23:40:38,393 INFO  [Log] Error message displayed 
+2024-03-31 23:40:40,118 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:40:40,218 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:40:40,973 INFO  [Log] Entered in to the homepage 
+2024-03-31 23:40:42,159 INFO  [Log] usermenudropdown visibled 
+2024-03-31 23:42:31,925 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:42:32,092 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:42:33,039 WARN  [Log] Please enter the correct password 
+2024-03-31 23:44:09,192 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:44:09,433 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:44:10,576 WARN  [Log] Please enter the correct password 
+2024-03-31 23:45:05,525 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:45:05,689 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:45:06,756 WARN  [Log] Please enter the correct password 
+2024-03-31 23:45:53,304 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:45:53,459 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:45:54,578 INFO  [Log] Entered in to the homepage 
+2024-03-31 23:45:55,668 INFO  [Log] usermenudropdown visibled 
+2024-03-31 23:46:27,274 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:46:27,422 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:46:28,537 INFO  [Log] Entered in to the homepage 
+2024-03-31 23:46:29,674 INFO  [Log] usermenudropdown visibled 
+2024-03-31 23:58:38,668 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-31 23:58:38,892 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-03-31 23:58:40,188 INFO  [Log] Entered in to the homepage 
+2024-03-31 23:58:41,294 INFO  [Log] usermenudropdown visibled 
+2024-03-31 23:58:44,148 INFO  [Log] Profile clicked from usermenu 
+2024-03-31 23:58:44,258 INFO  [Log] editpen clicked 
+2024-04-01 18:25:34,535 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 18:25:34,894 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 18:25:36,263 WARN  [Log] login clicked 
+2024-04-01 18:25:58,070 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 18:25:58,265 INFO  [Log] Successfully entered the username123 
+2024-04-01 18:25:58,623 INFO  [Log] Error message displayed 
+2024-04-01 21:41:31,260 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 21:41:31,486 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 21:41:33,415 INFO  [Log] Entered in to the homepage 
+2024-04-01 21:41:34,631 INFO  [Log] usermenudropdown visibled 
+2024-04-01 21:41:35,670 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 21:41:35,778 INFO  [Log] editpen clicked 
+2024-04-01 21:48:20,707 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 21:48:21,073 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 21:48:22,243 INFO  [Log] Entered in to the homepage 
+2024-04-01 21:48:23,407 INFO  [Log] usermenudropdown visibled 
+2024-04-01 21:48:25,492 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 21:48:25,607 INFO  [Log] editpen clicked 
+2024-04-01 21:50:21,606 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 21:50:21,800 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 21:50:22,921 INFO  [Log] Entered in to the homepage 
+2024-04-01 21:50:25,251 INFO  [Log] usermenudropdown visibled 
+2024-04-01 21:50:26,196 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 21:50:26,288 INFO  [Log] editpen clicked 
+2024-04-01 21:54:40,382 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 21:54:40,578 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 21:54:41,705 INFO  [Log] Entered in to the homepage 
+2024-04-01 21:54:42,857 INFO  [Log] usermenudropdown visibled 
+2024-04-01 21:54:44,231 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 21:54:44,364 INFO  [Log] editpen clicked 
+2024-04-01 21:57:40,210 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 21:57:40,467 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 21:57:41,575 INFO  [Log] Entered in to the homepage 
+2024-04-01 21:57:42,613 INFO  [Log] usermenudropdown visibled 
+2024-04-01 21:57:43,685 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 21:57:43,808 INFO  [Log] editpen clicked 
+2024-04-01 21:57:45,875 INFO  [Log] text is entered 
+2024-04-01 21:58:12,347 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 21:58:12,681 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 21:58:13,788 INFO  [Log] Entered in to the homepage 
+2024-04-01 21:58:14,970 INFO  [Log] usermenudropdown visibled 
+2024-04-01 21:58:16,001 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 21:58:16,119 INFO  [Log] editpen clicked 
+2024-04-01 21:58:18,530 INFO  [Log] text is entered 
+2024-04-01 22:02:08,333 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 22:02:08,652 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 22:02:09,916 INFO  [Log] Entered in to the homepage 
+2024-04-01 22:02:12,069 INFO  [Log] usermenudropdown visibled 
+2024-04-01 22:02:13,176 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 22:02:13,294 INFO  [Log] editpen clicked 
+2024-04-01 22:02:16,322 INFO  [Log] text is entered 
+2024-04-01 22:33:13,059 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 22:33:13,279 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 22:33:14,594 INFO  [Log] Entered in to the homepage 
+2024-04-01 22:33:15,908 INFO  [Log] usermenudropdown visibled 
+2024-04-01 22:33:16,824 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 22:33:16,949 INFO  [Log] editpen clicked 
+2024-04-01 22:33:18,983 INFO  [Log] text is entered 
+2024-04-01 22:40:30,125 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 22:40:30,467 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 22:40:31,658 INFO  [Log] Entered in to the homepage 
+2024-04-01 22:40:32,961 INFO  [Log] usermenudropdown visibled 
+2024-04-01 22:40:34,049 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 22:40:34,175 INFO  [Log] editpen clicked 
+2024-04-01 22:40:36,447 INFO  [Log] text is entered 
+2024-04-01 22:41:58,665 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 22:41:59,012 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 22:42:00,986 INFO  [Log] Entered in to the homepage 
+2024-04-01 22:42:02,402 INFO  [Log] usermenudropdown visibled 
+2024-04-01 22:42:03,633 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 22:42:03,763 INFO  [Log] editpen clicked 
+2024-04-01 22:42:06,717 INFO  [Log] text is entered 
+2024-04-01 22:43:55,494 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 22:43:55,804 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 22:43:56,955 INFO  [Log] Entered in to the homepage 
+2024-04-01 22:43:59,152 INFO  [Log] usermenudropdown visibled 
+2024-04-01 22:44:00,726 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 22:44:00,874 INFO  [Log] editpen clicked 
+2024-04-01 22:44:03,222 INFO  [Log] text is entered 
+2024-04-01 22:52:00,632 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 22:52:01,005 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 22:52:02,269 INFO  [Log] Entered in to the homepage 
+2024-04-01 22:52:03,598 INFO  [Log] usermenudropdown visibled 
+2024-04-01 22:52:04,541 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 22:52:04,677 INFO  [Log] editpen clicked 
+2024-04-01 22:52:06,773 INFO  [Log] text is entered 
+2024-04-01 22:53:54,777 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 22:53:55,114 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 22:53:56,204 INFO  [Log] Entered in to the homepage 
+2024-04-01 22:53:57,653 INFO  [Log] usermenudropdown visibled 
+2024-04-01 22:53:58,440 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 22:53:58,555 INFO  [Log] editpen clicked 
+2024-04-01 22:54:00,543 INFO  [Log] text is entered 
+2024-04-01 22:54:04,517 INFO  [Log] photo saved as profile image 
+2024-04-01 22:55:35,812 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 22:55:36,150 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 22:55:37,313 INFO  [Log] Entered in to the homepage 
+2024-04-01 22:55:38,586 INFO  [Log] usermenudropdown visibled 
+2024-04-01 22:55:39,505 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 22:55:39,648 INFO  [Log] editpen clicked 
+2024-04-01 22:55:42,645 INFO  [Log] text is entered 
+2024-04-01 22:55:47,030 WARN  [Log] manually delete photo in each execution 
+2024-04-01 22:57:28,501 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-01 22:57:28,886 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-01 22:57:30,162 INFO  [Log] Entered in to the homepage 
+2024-04-01 22:57:31,285 INFO  [Log] usermenudropdown visibled 
+2024-04-01 22:57:33,938 INFO  [Log] Profile clicked from usermenu 
+2024-04-01 22:57:34,065 INFO  [Log] editpen clicked 
+2024-04-01 22:57:36,456 INFO  [Log] text is entered 
+2024-04-01 22:57:40,973 WARN  [Log] manually delete photo in each execution 
+2024-04-02 08:21:51,132 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 08:21:51,481 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 08:21:53,025 INFO  [Log] Entered in to the homepage 
+2024-04-02 08:21:56,078 INFO  [Log] usermenudropdown visibled 
+2024-04-02 08:25:29,917 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 08:25:30,341 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 08:25:31,520 INFO  [Log] Entered in to the homepage 
+2024-04-02 08:25:33,120 INFO  [Log] usermenudropdown visibled 
+2024-04-02 08:25:38,369 INFO  [Log] Test case is passed,calender remainder works fine 
+2024-04-02 09:36:55,449 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:36:55,863 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:36:57,200 INFO  [Log] Entered in to the homepage 
+2024-04-02 09:36:58,469 INFO  [Log] usermenudropdown visibled 
+2024-04-02 09:43:30,725 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:43:31,473 WARN  [Log] Please enter the correct password 
+2024-04-02 09:43:31,473 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-04-02 09:43:32,793 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:43:32,982 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:43:34,485 WARN  [Log] login clicked 
+2024-04-02 09:43:37,598 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:43:37,820 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:43:40,257 INFO  [Log] usemenu dropdown clicked 
+2024-04-02 09:43:40,450 INFO  [Log] username displayed in usernamefield 
+2024-04-02 09:43:41,708 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:43:42,177 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:43:42,461 INFO  [Log] forgot password page 
+2024-04-02 09:43:44,163 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:43:44,714 INFO  [Log] Successfully entered the username123 
+2024-04-02 09:43:45,205 INFO  [Log] Error message displayed 
+2024-04-02 09:43:46,964 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:43:47,167 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:43:48,501 INFO  [Log] Entered in to the homepage 
+2024-04-02 09:43:49,682 INFO  [Log] usermenudropdown visibled 
+2024-04-02 09:43:51,121 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:43:51,346 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:43:52,904 INFO  [Log] Entered in to the homepage 
+2024-04-02 09:43:54,573 INFO  [Log] usermenudropdown visibled 
+2024-04-02 09:43:55,618 INFO  [Log] Profile clicked from usermenu 
+2024-04-02 09:43:55,724 INFO  [Log] editpen clicked 
+2024-04-02 09:43:59,641 INFO  [Log] text is entered 
+2024-04-02 09:44:11,756 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:44:11,944 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:44:14,088 INFO  [Log] Entered in to the homepage 
+2024-04-02 09:44:15,155 INFO  [Log] usermenudropdown visibled 
+2024-04-02 09:44:19,369 INFO  [Log] Test case is passed,calender remainder works fine 
+2024-04-02 09:44:20,396 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:44:20,612 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:44:21,718 INFO  [Log] Entered in to the homepage 
+2024-04-02 09:44:22,976 INFO  [Log] usermenudropdown visibled 
+2024-04-02 09:44:23,562 INFO  [Log] new developer console window opened 
+2024-04-02 09:44:25,826 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:44:26,417 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:44:27,655 INFO  [Log] Entered in to the homepage 
+2024-04-02 09:44:29,121 INFO  [Log] usermenudropdown visibled 
+2024-04-02 09:48:02,906 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:48:03,325 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:48:04,538 INFO  [Log] Entered in to the homepage 
+2024-04-02 09:48:44,976 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:48:45,385 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:48:46,564 INFO  [Log] Entered in to the homepage 
+2024-04-02 09:48:47,845 INFO  [Log] usermenudropdown visibled 
+2024-04-02 09:48:49,468 INFO  [Log] Profile clicked from usermenu 
+2024-04-02 09:48:49,608 INFO  [Log] editpen clicked 
+2024-04-02 09:48:53,376 INFO  [Log] text is entered 
+2024-04-02 09:48:59,031 WARN  [Log] manually delete photo in each execution 
+2024-04-02 09:49:17,140 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 09:49:17,659 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 09:49:18,773 INFO  [Log] Entered in to the homepage 
+2024-04-02 09:49:19,919 INFO  [Log] usermenudropdown visibled 
+2024-04-02 09:49:20,986 INFO  [Log] Profile clicked from usermenu 
+2024-04-02 09:49:21,150 INFO  [Log] editpen clicked 
+2024-04-02 09:49:24,468 INFO  [Log] text is entered 
+2024-04-02 09:49:29,395 WARN  [Log] manually delete photo in each execution 
+2024-04-02 10:02:02,822 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 10:02:03,282 WARN  [Log] Please enter the correct password 
+2024-04-02 10:02:03,282 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-04-02 10:02:04,613 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 10:02:04,750 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 10:02:05,616 WARN  [Log] login clicked 
+2024-04-02 10:02:08,410 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 10:02:08,703 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 10:02:12,223 INFO  [Log] usemenu dropdown clicked 
+2024-04-02 10:02:12,452 INFO  [Log] username displayed in usernamefield 
+2024-04-02 10:02:13,775 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 10:02:13,983 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 10:02:14,320 INFO  [Log] forgot password page 
+2024-04-02 10:02:16,113 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 10:02:16,543 INFO  [Log] Successfully entered the username123 
+2024-04-02 10:02:17,041 INFO  [Log] Error message displayed 
+2024-04-02 10:02:18,773 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 10:02:18,953 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 10:02:20,320 INFO  [Log] Entered in to the homepage 
+2024-04-02 10:02:22,052 INFO  [Log] usermenudropdown visibled 
+2024-04-02 10:02:23,444 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 10:02:23,926 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 10:02:25,063 INFO  [Log] Entered in to the homepage 
+2024-04-02 10:02:26,382 INFO  [Log] usermenudropdown visibled 
+2024-04-02 10:02:27,243 INFO  [Log] Profile clicked from usermenu 
+2024-04-02 10:02:27,356 INFO  [Log] editpen clicked 
+2024-04-02 10:02:31,122 INFO  [Log] text is entered 
+2024-04-02 10:02:35,941 WARN  [Log] manually delete photo in each execution,so update photolink choosed 
+2024-04-02 10:02:37,324 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 10:02:37,542 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 10:02:38,853 INFO  [Log] Entered in to the homepage 
+2024-04-02 10:02:39,948 INFO  [Log] usermenudropdown visibled 
+2024-04-02 10:02:44,173 INFO  [Log] Test case is passed,calender remainder works fine 
+2024-04-02 10:02:45,232 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 10:02:45,442 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 10:02:46,780 INFO  [Log] Entered in to the homepage 
+2024-04-02 10:02:48,247 INFO  [Log] usermenudropdown visibled 
+2024-04-02 10:02:48,684 INFO  [Log] new developer console window opened 
+2024-04-02 10:02:50,987 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 10:02:51,594 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 10:02:52,922 INFO  [Log] Entered in to the homepage 
+2024-04-02 10:02:54,079 INFO  [Log] usermenudropdown visibled 
+2024-04-02 16:29:13,681 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 16:29:14,122 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 16:29:15,326 INFO  [Log] Entered in to the homepage 
+2024-04-02 16:33:52,759 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-02 16:33:53,076 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-02 16:33:54,240 INFO  [Log] Entered in to the homepage 
+2024-04-03 07:52:43,195 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 07:52:43,615 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-03 07:52:45,532 INFO  [Log] Entered in to the homepage 
+2024-04-03 08:21:43,086 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 08:21:43,517 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-03 08:21:44,778 INFO  [Log] Entered in to the homepage 
+2024-04-03 08:23:05,059 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 08:23:05,470 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-03 08:23:06,976 INFO  [Log] Entered in to the homepage 
+2024-04-03 08:23:11,476 INFO  [Log] Testcase passed in createnewview 
+2024-04-03 08:23:30,958 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 08:23:31,302 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-03 08:23:32,583 INFO  [Log] Entered in to the homepage 
+2024-04-03 08:23:36,079 INFO  [Log] Testcase passed in createnewview 
+2024-04-03 22:08:52,333 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 22:08:53,010 WARN  [Log] Please enter the correct password 
+2024-04-03 22:08:53,010 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-04-03 22:10:54,470 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 22:10:55,079 WARN  [Log] Please enter the correct password 
+2024-04-03 22:10:55,079 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-04-03 22:12:01,797 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 22:12:02,023 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-03 22:12:04,465 INFO  [Log] usemenu dropdown clicked 
+2024-04-03 22:12:04,656 INFO  [Log] username displayed in usernamefield 
+2024-04-03 22:13:23,576 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 22:13:24,042 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-03 22:13:24,231 INFO  [Log] forgot password page 
+2024-04-03 22:14:31,589 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 22:14:31,794 INFO  [Log] Successfully entered the username123 
+2024-04-03 22:14:32,135 INFO  [Log] Error message displayed 
+2024-04-03 22:17:21,223 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 22:17:21,675 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-03 22:17:22,702 INFO  [Log] Entered in to the homepage 
+2024-04-03 22:17:24,788 INFO  [Log] usermenudropdown visibled 
+2024-04-03 22:17:26,449 INFO  [Log] Profile clicked from usermenu 
+2024-04-03 22:17:26,564 INFO  [Log] editpen clicked 
+2024-04-03 22:17:28,841 INFO  [Log] text is entered 
+2024-04-03 22:17:33,429 WARN  [Log] manually delete photo in each execution,so update photolink choosed 
+2024-04-03 23:30:58,414 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 23:30:58,636 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-03 23:30:59,687 INFO  [Log] Entered in to the homepage 
+2024-04-03 23:31:04,633 INFO  [Log] Testcase passed in createnewview 
+2024-04-03 23:40:24,822 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-03 23:40:25,025 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-03 23:40:26,343 INFO  [Log] Entered in to the homepage 
+2024-04-03 23:40:30,836 INFO  [Log]  EditView testcase passed 
+2024-04-04 00:06:33,283 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 00:06:33,649 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 00:06:34,801 INFO  [Log] Entered in to the homepage 
+2024-04-04 00:08:40,160 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 00:08:40,349 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 00:08:41,799 INFO  [Log] Entered in to the homepage 
+2024-04-04 00:08:47,713 INFO  [Log] Account page displayed with merged account 
+2024-04-04 00:09:10,278 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 00:09:10,588 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 00:09:11,467 INFO  [Log] Entered in to the homepage 
+2024-04-04 00:09:17,326 INFO  [Log] Account page displayed with merged account 
+2024-04-04 00:46:22,426 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 00:46:22,820 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 00:46:23,997 INFO  [Log] Entered in to the homepage 
+2024-04-04 00:46:26,687 INFO  [Log] Last activity displayed 
+2024-04-04 00:56:13,554 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 00:56:13,786 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 00:56:16,036 INFO  [Log] Entered in to the homepage 
+2024-04-04 00:56:20,872 INFO  [Log] Last activity displayed 
+2024-04-04 09:04:02,664 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 09:04:03,028 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 09:04:04,523 INFO  [Log] Entered in to the homepage 
+2024-04-04 09:04:08,927 INFO  [Log] Last activity displayed 
+2024-04-04 09:06:02,469 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 09:06:02,849 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 09:06:04,219 INFO  [Log] Entered in to the homepage 
+2024-04-04 09:06:09,871 INFO  [Log] Last activity displayed 
+2024-04-04 09:06:10,799 INFO  [Log] testcase passed 
+2024-04-04 09:44:25,219 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 09:44:25,577 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 09:44:26,767 INFO  [Log] Entered in to the homepage 
+2024-04-04 09:44:31,351 INFO  [Log] Last activity displayed 
+2024-04-04 09:44:31,925 INFO  [Log] testcase passed 
+2024-04-04 09:45:04,127 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 09:45:04,491 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 09:45:05,531 INFO  [Log] Entered in to the homepage 
+2024-04-04 09:45:08,000 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 10:15:59,734 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 10:16:00,100 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 10:16:01,291 INFO  [Log] Entered in to the homepage 
+2024-04-04 10:16:03,587 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 22:53:04,460 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 22:53:04,795 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 22:53:07,713 INFO  [Log] Entered in to the homepage 
+2024-04-04 22:53:08,324 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 22:55:09,368 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 22:55:09,507 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 22:55:15,398 INFO  [Log] Entered in to the homepage 
+2024-04-04 22:55:16,648 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:06:38,307 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:06:38,634 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:06:39,820 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:06:41,642 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:09:49,927 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:09:50,155 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:09:51,415 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:09:53,968 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:12:59,335 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:12:59,477 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:13:00,796 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:13:02,458 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:29:35,250 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:29:35,478 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:29:36,735 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:29:38,374 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:34:49,016 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:34:49,184 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:34:50,278 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:34:52,112 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:35:39,899 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:35:40,284 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:35:41,419 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:35:42,908 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:42:41,800 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:42:42,045 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:42:43,258 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:42:44,808 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:45:39,966 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:45:40,198 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:45:41,329 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:45:44,993 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:47:59,825 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:48:00,226 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:48:01,465 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:48:03,973 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:48:04,121 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:48:04,274 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:48:05,168 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:48:06,792 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:48:08,907 INFO  [Log] table clicked 
+2024-04-04 23:50:13,571 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-04 23:50:13,904 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-04 23:50:15,274 INFO  [Log] Entered in to the homepage 
+2024-04-04 23:50:17,513 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-04 23:50:19,719 INFO  [Log] table clicked 
+2024-04-04 23:50:19,720 INFO  [Log] after window change 
+2024-04-05 00:10:11,924 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:10:12,244 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:10:13,343 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:10:15,005 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:10:15,172 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:10:15,356 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:10:16,136 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:10:17,350 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:10:19,585 INFO  [Log] table clicked 
+2024-04-05 00:11:44,362 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:11:44,475 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:11:45,571 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:11:47,233 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:11:47,364 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:11:47,509 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:11:48,400 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:11:49,950 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:11:51,794 INFO  [Log] table clicked 
+2024-04-05 00:12:44,137 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:12:44,288 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:12:45,478 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:12:47,083 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:12:47,261 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:12:47,666 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:12:48,134 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:12:49,848 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:12:51,920 INFO  [Log] table clicked 
+2024-04-05 00:18:07,902 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:18:08,257 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:18:09,510 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:18:11,155 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:18:11,289 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:18:11,673 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:18:12,204 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:18:13,482 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:18:15,557 INFO  [Log] table clicked 
+2024-04-05 00:19:47,902 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:19:48,121 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:19:49,456 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:19:51,043 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:19:51,177 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:19:51,592 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:19:52,172 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:19:53,813 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:19:55,630 INFO  [Log] table clicked 
+2024-04-05 00:21:35,448 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:21:35,759 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:21:36,816 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:21:38,656 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:21:38,793 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:21:39,197 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:21:39,647 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:21:41,342 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:21:43,121 INFO  [Log] table clicked 
+2024-04-05 00:22:05,601 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:22:05,848 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:22:07,141 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:22:08,874 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:22:09,014 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 00:22:09,419 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 00:22:10,317 INFO  [Log] Entered in to the homepage 
+2024-04-05 00:22:11,308 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 00:22:13,594 INFO  [Log] table clicked 
+2024-04-05 16:31:09,680 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 16:31:10,020 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 16:31:11,221 INFO  [Log] Entered in to the homepage 
+2024-04-05 16:31:12,946 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 16:31:13,043 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 16:31:13,428 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 16:31:14,302 INFO  [Log] Entered in to the homepage 
+2024-04-05 16:31:15,452 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 16:36:42,866 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 16:36:43,073 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 16:36:44,367 INFO  [Log] Entered in to the homepage 
+2024-04-05 16:36:46,955 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 16:36:47,060 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 16:36:47,217 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 16:36:47,999 INFO  [Log] Entered in to the homepage 
+2024-04-05 16:36:50,020 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 16:36:51,892 INFO  [Log] table clicked 
+2024-04-05 16:37:48,052 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 16:37:48,202 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 16:37:49,397 INFO  [Log] Entered in to the homepage 
+2024-04-05 16:37:51,380 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 16:37:51,535 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 16:37:51,836 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 16:37:53,978 INFO  [Log] Entered in to the homepage 
+2024-04-05 16:37:55,534 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 16:37:57,364 INFO  [Log] table clicked 
+2024-04-05 16:37:57,364 INFO  [Log] after window change 
+2024-04-05 16:44:43,160 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 16:44:43,508 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 16:44:44,641 INFO  [Log] Entered in to the homepage 
+2024-04-05 16:44:46,416 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 16:44:46,557 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 16:44:46,739 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 16:44:47,510 INFO  [Log] Entered in to the homepage 
+2024-04-05 16:44:49,195 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 16:44:51,110 INFO  [Log] table clicked 
+2024-04-05 16:44:51,111 INFO  [Log] after window change 
+2024-04-05 17:14:29,430 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 17:14:29,744 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 17:14:30,910 INFO  [Log] Entered in to the homepage 
+2024-04-05 17:14:32,540 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 17:14:32,658 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-05 17:14:32,966 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-05 17:14:33,612 INFO  [Log] Entered in to the homepage 
+2024-04-05 17:14:35,243 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-05 17:14:37,108 INFO  [Log] table clicked 
+2024-04-05 17:14:37,109 INFO  [Log] after window change 
+2024-04-06 11:02:15,196 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 11:02:15,412 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-06 11:02:19,180 INFO  [Log] Entered in to the homepage 
+2024-04-06 11:02:20,504 INFO  [Log] report Page with the Opportunities that are pipelined is displayed. 
+2024-04-06 11:08:17,066 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 11:08:17,285 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-06 11:08:18,787 INFO  [Log] Entered in to the homepage 
+2024-04-06 11:08:21,392 INFO  [Log] StuckOpportunities Reports displayed 
+2024-04-06 11:29:12,272 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 11:29:12,504 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-06 11:29:14,099 INFO  [Log] Entered in to the homepage 
+2024-04-06 11:31:21,046 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 11:31:21,203 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-06 11:31:22,455 INFO  [Log] Entered in to the homepage 
+2024-04-06 11:31:25,326 INFO  [Log] testcase passed,reportpage displayed with criteria 
+2024-04-06 12:56:19,300 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 12:56:19,687 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (8eeea5d9f869c0ee1ae32e843b142bed)] -> id: username] 
+2024-04-06 12:56:21,257 INFO  [Log] Entered in to the homepage 
+2024-04-06 12:58:19,576 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 12:58:19,734 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (a60aa1fc672549d1c8f5b78fec200102)] -> id: username] 
+2024-04-06 12:58:21,389 INFO  [Log] Entered in to the homepage 
+2024-04-06 12:59:04,910 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 12:59:05,128 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (18775015dabdacee4ee65aef9b77793b)] -> id: username] 
+2024-04-06 12:59:06,751 INFO  [Log] Entered in to the homepage 
+2024-04-06 13:00:59,798 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 13:01:00,048 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (25483ee228c64f9212f366ee273cba92)] -> id: username] 
+2024-04-06 13:01:01,467 INFO  [Log] Entered in to the homepage 
+2024-04-06 13:06:41,322 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 13:06:41,582 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (cba1e7a3ba40675ea82dcfac3307c180)] -> id: username] 
+2024-04-06 13:06:42,827 INFO  [Log] Entered in to the homepage 
+2024-04-06 13:08:37,905 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 13:08:38,145 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (65b211de9cd100dd146b80facef11b78)] -> id: username] 
+2024-04-06 13:08:39,930 INFO  [Log] Entered in to the homepage 
+2024-04-06 13:10:11,855 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 13:10:12,038 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (9b66e4fbaf6106024485f5cfbcba1b52)] -> id: username] 
+2024-04-06 13:10:14,110 INFO  [Log] Entered in to the homepage 
+2024-04-06 13:46:40,819 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 13:46:41,063 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (c5a55d4ad08f62c98b40143ae72cfd3d)] -> id: username] 
+2024-04-06 13:46:43,008 INFO  [Log] Entered in to the homepage 
+2024-04-06 13:51:49,183 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 13:51:49,386 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (fdbd4eeb147ac2177f7274afa6bf10ce)] -> id: username] 
+2024-04-06 13:51:51,067 INFO  [Log] Entered in to the homepage 
+2024-04-06 13:52:46,341 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 13:52:46,593 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (d8a31b13f530dcea8af8e677aa53b502)] -> id: username] 
+2024-04-06 13:52:48,087 INFO  [Log] Entered in to the homepage 
+2024-04-06 13:53:17,491 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 13:53:17,733 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (fa2c4337684ca2397f3897f19f33e557)] -> id: username] 
+2024-04-06 13:53:20,408 INFO  [Log] Entered in to the homepage 
+2024-04-06 13:57:22,794 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 13:57:23,006 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (e04ec23a30ddf6f17b92858984100df8)] -> id: username] 
+2024-04-06 13:57:24,657 INFO  [Log] Entered in to the homepage 
+2024-04-06 13:57:27,277 INFO  [Log] Viewdropdownlist displayed 
+2024-04-06 14:10:56,339 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 14:10:56,539 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (3e01561614566b86e5af717eca5f1df4)] -> id: username] 
+2024-04-06 14:10:58,173 INFO  [Log] Entered in to the homepage 
+2024-04-06 14:11:00,452 INFO  [Log] Viewdropdownlist displayed 
+2024-04-06 14:13:06,114 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 14:13:06,361 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (1cb9b346e3bfb2e393546233848f2d2e)] -> id: username] 
+2024-04-06 14:13:07,693 INFO  [Log] Entered in to the homepage 
+2024-04-06 14:13:10,049 INFO  [Log] Viewdropdownlist displayed 
+2024-04-06 14:13:11,205 INFO  [Log] defaultview is my unreadleads 
+2024-04-06 14:19:26,367 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 14:19:26,600 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (867885c9533ceae9eb6967ef5a1b7236)] -> id: username] 
+2024-04-06 14:19:27,880 INFO  [Log] Entered in to the homepage 
+2024-04-06 14:19:31,620 INFO  [Log] Viewdropdownlist displayed 
+2024-04-06 14:19:32,483 INFO  [Log] TodaysLead displayed 
+2024-04-06 14:35:14,310 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 14:35:14,476 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (1df0becd1553db061b0613131fbd6270)] -> id: username] 
+2024-04-06 14:35:16,155 INFO  [Log] Entered in to the homepage 
+2024-04-06 14:35:21,736 INFO  [Log] test case passed,new lead saved 
+2024-04-06 14:35:32,890 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-06 14:35:33,117 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (f74944e31e9865d27183c3a3dc4fbafc)] -> id: username] 
+2024-04-06 14:35:34,440 INFO  [Log] Entered in to the homepage 
+2024-04-06 14:35:39,172 INFO  [Log] test case passed,new lead saved 
+2024-04-07 00:01:19,478 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 00:01:19,854 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (98ce3fc480c45f66b5cc42e03be4c3f7)] -> id: username] 
+2024-04-07 00:01:21,207 INFO  [Log] Entered in to the homepage 
+2024-04-07 00:04:09,019 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 00:04:09,340 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (3924a5e95aad534db875e438eec0fd2c)] -> id: username] 
+2024-04-07 00:04:10,607 INFO  [Log] Entered in to the homepage 
+2024-04-07 00:04:13,335 INFO  [Log] contactpage displayed 
+2024-04-07 00:07:28,355 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 00:07:28,708 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (e12fff5e0aaf0ee8f81f65261f844bad)] -> id: username] 
+2024-04-07 00:07:29,827 INFO  [Log] Entered in to the homepage 
+2024-04-07 00:07:31,444 INFO  [Log] contactpage displayed 
+2024-04-07 00:08:32,391 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 00:08:32,836 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (5e70ac8168585e3dbeb7105430371a00)] -> id: username] 
+2024-04-07 00:08:34,037 INFO  [Log] Entered in to the homepage 
+2024-04-07 00:08:35,685 INFO  [Log] contactpage displayed 
+2024-04-07 00:12:54,989 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 00:12:55,362 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (5b1312cd3c82b973df30ce2bc42758a5)] -> id: username] 
+2024-04-07 00:12:56,523 INFO  [Log] Entered in to the homepage 
+2024-04-07 00:12:58,017 INFO  [Log] contactpage displayed 
+2024-04-07 00:17:48,224 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 00:17:48,658 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (57e107d1db0ee2dd02315ce62eea78f5)] -> id: username] 
+2024-04-07 00:17:49,768 INFO  [Log] Entered in to the homepage 
+2024-04-07 00:17:51,360 INFO  [Log] contactpage displayed 
+2024-04-07 00:47:29,590 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 00:47:29,925 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (367e127333e881a5ef19d0603e45532b)] -> id: username] 
+2024-04-07 00:47:31,085 INFO  [Log] Entered in to the homepage 
+2024-04-07 00:47:33,973 INFO  [Log] contactpage displayed 
+2024-04-07 00:47:35,941 INFO  [Log] ViewName page is displayed,Testcase passed in createnewview 
+2024-04-07 00:47:48,516 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 00:47:48,923 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (bc8962f44074d1f935c6d397998a942d)] -> id: username] 
+2024-04-07 00:47:50,107 INFO  [Log] Entered in to the homepage 
+2024-04-07 00:47:52,169 INFO  [Log] contactpage displayed 
+2024-04-07 00:47:53,891 INFO  [Log] ViewName page is displayed,Testcase passed in createnewview 
+2024-04-07 00:56:21,985 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 00:56:22,424 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (76936bb6b4005de25cb221804c0f7e15)] -> id: username] 
+2024-04-07 00:56:23,571 INFO  [Log] Entered in to the homepage 
+2024-04-07 00:56:25,142 INFO  [Log] contactpage displayed 
+2024-04-07 00:56:25,270 INFO  [Log] testcase passed,recently created contact page is displayed 
+2024-04-07 01:07:13,070 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 01:07:13,442 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (90111962a28412d49b575f060d68907f)] -> id: username] 
+2024-04-07 01:07:14,717 INFO  [Log] Entered in to the homepage 
+2024-04-07 01:07:16,463 INFO  [Log] contactpage displayed 
+2024-04-07 01:07:17,220 INFO  [Log] testcase passed,My contacts page view is page is displayed 
+2024-04-07 01:17:41,101 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 01:17:41,334 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (10f87ebe9acb74c79f24f1af8e3e9adb)] -> id: username] 
+2024-04-07 01:17:42,657 INFO  [Log] Entered in to the homepage 
+2024-04-07 01:17:44,324 INFO  [Log] contactpage displayed 
+2024-04-07 01:17:44,647 INFO  [Log] one contact info is displayed 
+2024-04-07 01:18:26,513 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 01:18:26,909 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (639187a70fa462fd76fe82da20630131)] -> id: username] 
+2024-04-07 01:18:28,019 INFO  [Log] Entered in to the homepage 
+2024-04-07 01:18:29,439 INFO  [Log] contactpage displayed 
+2024-04-07 01:18:30,729 INFO  [Log] one contact info is displayed 
+2024-04-07 01:42:54,395 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 01:42:54,618 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (9b1cea961ec7e54d2a4ba64f4cedffb5)] -> id: username] 
+2024-04-07 01:42:56,831 INFO  [Log] Entered in to the homepage 
+2024-04-07 01:43:00,742 INFO  [Log] contactpage displayed 
+2024-04-07 01:43:02,810 INFO  [Log] ViewName page is displayed,Testcase passed in createnewview 
+2024-04-07 01:43:39,996 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 01:43:40,276 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (f79a6e0a1f24a0f357b9be7a40732b5b)] -> id: username] 
+2024-04-07 01:43:41,493 INFO  [Log] Entered in to the homepage 
+2024-04-07 01:43:43,112 INFO  [Log] contactpage displayed 
+2024-04-07 01:43:44,800 INFO  [Log] ViewName page is displayed,Testcase passed in createnewview 
+2024-04-07 09:36:09,135 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 09:36:09,629 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (05daf5ecb32a9e86093c76d111a3b9e7)] -> id: username] 
+2024-04-07 09:36:10,910 INFO  [Log] Entered in to the homepage 
+2024-04-07 09:36:12,748 INFO  [Log] contactpage displayed 
+2024-04-07 09:36:14,478 INFO  [Log] test case passed,canceled so return back to contact homepage 
+2024-04-07 09:42:10,878 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 09:42:11,167 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (f4c224b66cfe5bd0b22cb073d101eb3a)] -> id: username] 
+2024-04-07 09:42:12,452 INFO  [Log] Entered in to the homepage 
+2024-04-07 09:42:15,204 INFO  [Log] contactpage displayed 
+2024-04-07 09:43:55,079 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 09:43:55,590 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (71b4b6e79f87e8ec080304e2b1509512)] -> id: username] 
+2024-04-07 09:43:56,829 INFO  [Log] Entered in to the homepage 
+2024-04-07 09:43:58,445 INFO  [Log] contactpage displayed 
+2024-04-07 09:47:36,509 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 09:47:36,749 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (588586e7d9b05076937f0233d4050a10)] -> id: username] 
+2024-04-07 09:47:37,983 INFO  [Log] Entered in to the homepage 
+2024-04-07 09:47:40,241 INFO  [Log] contactpage displayed 
+2024-04-07 10:21:13,401 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 10:21:13,771 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (2880fa77be0e201b59a52c3cebe401c0)] -> id: username] 
+2024-04-07 10:21:13,772 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 10:21:16,062 INFO  [Log] Entered in to the homepage 
+2024-04-07 10:21:16,063 INFO  [Log] Entered in to the homepage 
+2024-04-07 10:21:36,530 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 10:21:36,929 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0c6506bc6f59c9685926ffc99aa179f4)] -> id: username] 
+2024-04-07 10:21:36,930 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 10:21:37,931 INFO  [Log] Entered in to the homepage 
+2024-04-07 10:21:37,931 INFO  [Log] Entered in to the homepage 
+2024-04-07 10:21:59,993 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 10:22:00,253 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (373878f08ff5cc0f5471145a435ed6df)] -> id: username] 
+2024-04-07 10:22:00,253 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 10:22:01,504 INFO  [Log] Entered in to the homepage 
+2024-04-07 10:22:01,505 INFO  [Log] Entered in to the homepage 
+2024-04-07 10:24:24,880 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 10:24:25,276 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (efb0b0da3f21a00d7d33fff88ea04354)] -> id: username] 
+2024-04-07 10:24:25,277 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 10:24:26,278 INFO  [Log] Entered in to the homepage 
+2024-04-07 10:24:26,278 INFO  [Log] Entered in to the homepage 
+2024-04-07 10:26:16,243 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 10:26:16,656 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (d3f3531ffeeb9fe21618a5cc57718444)] -> id: username] 
+2024-04-07 10:26:16,656 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 10:26:17,891 INFO  [Log] Entered in to the homepage 
+2024-04-07 10:26:17,892 INFO  [Log] Entered in to the homepage 
+2024-04-07 14:11:22,456 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 14:11:22,724 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (8dc6126a70aa2cac28938f6ba1267d6b)] -> id: username] 
+2024-04-07 14:11:22,724 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 14:11:23,839 INFO  [Log] Entered in to the homepage 
+2024-04-07 14:11:23,840 INFO  [Log] Entered in to the homepage 
+2024-04-07 14:11:39,595 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 14:11:40,055 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (22888ffdc68fad049a4f5f3c9fc5f848)] -> id: username] 
+2024-04-07 14:11:40,055 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 14:11:40,959 INFO  [Log] Entered in to the homepage 
+2024-04-07 14:11:40,959 INFO  [Log] Entered in to the homepage 
+2024-04-07 14:32:09,069 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 14:32:09,462 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (c52372e9849fe797a76b15d2af01712c)] -> id: username] 
+2024-04-07 14:32:09,463 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 14:32:11,156 INFO  [Log] Entered in to the homepage 
+2024-04-07 14:32:11,157 INFO  [Log] Entered in to the homepage 
+2024-04-07 15:34:59,441 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 15:34:59,863 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (939b8406758e603cd60362ba800dba7f)] -> id: username] 
+2024-04-07 15:34:59,863 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 15:35:01,535 INFO  [Log] Entered in to the homepage 
+2024-04-07 15:35:34,242 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 15:35:34,522 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (8832e37723fc221e708fad626b4be43c)] -> id: username] 
+2024-04-07 15:35:34,522 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 15:35:35,747 INFO  [Log] Entered in to the homepage 
+2024-04-07 16:50:15,512 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 16:50:15,928 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (d5bac8fd0160871b64efc109d625843c)] -> id: username] 
+2024-04-07 16:50:15,930 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 16:50:17,174 INFO  [Log] Entered in to the homepage 
+2024-04-07 16:55:21,509 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-07 16:55:21,770 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (6ccf274e8c1a38837ffa8b6f05baa149)] -> id: username] 
+2024-04-07 16:55:21,770 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-07 16:55:23,009 INFO  [Log] Entered in to the homepage 

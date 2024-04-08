@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.training.listeners.TestListener"/>
+  </listeners>
+  <test name="HomeUsermenu(failed)">
+    <classes>
+      <class name="com.training.testcases.LoginTestTC01">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.training.testcases.LoginTestTC01 -->
+      <class name="com.training.testcases.HomeLogoutTC09">
+        <methods>
+          <include name="teardown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.training.testcases.HomeLogoutTC09 -->
+      <class name="com.training.testcases.LoginTestTC4b">
+        <methods>
+          <include name="teardown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.training.testcases.LoginTestTC4b -->
+      <class name="com.training.testcases.LoginTest2">
+        <methods>
+          <include name="teardown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.training.testcases.LoginTest2 -->
+      <class name="com.training.testcases.HomeTestMySettingsTC07">
+        <methods>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.training.testcases.HomeTestMySettingsTC07 -->
+      <class name="com.training.testcases.LoginTest03">
+        <methods>
+          <include name="teardown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.training.testcases.LoginTest03 -->
+      <class name="com.training.testcases.HomeTestDEvlprCOnslTC08">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.training.testcases.HomeTestDEvlprCOnslTC08 -->
+      <class name="com.training.testcases.HomeTestMyProfileTC06">
+        <methods>
+          <include name="UsermenuProfile"/>
+          <include name="beforeMethod"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.training.testcases.HomeTestMyProfileTC06 -->
+      <class name="com.training.testcases.LoginTestTC4a">
+        <methods>
+          <include name="teardown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.training.testcases.LoginTestTC4a -->
+      <class name="com.training.testcases.HomeTest5">
+        <methods>
+          <include name="teardown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.training.testcases.HomeTest5 -->
+    </classes>
+  </test> <!-- HomeUsermenu(failed) -->
+</suite> <!-- Failed suite [Automation] -->
