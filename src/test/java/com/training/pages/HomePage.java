@@ -145,7 +145,7 @@ public void photosave2() {
 waitforElement(save2);
 clickElement(save2);
 defaultoriginalPage();
-}
+}//settings
 @FindBy(xpath="//a[@title='My Settings']")
 	WebElement settings;
 public void settingsClick() {                
@@ -262,10 +262,6 @@ WebElement developerfield;
 public void developerfieldinNewwindow() {
 developerfield.click();
 }
-public void parentwindow() {
-	String parent=	getParentWindow();
-	switchToparentWndow(parent);
-Log.info("testcase passed");
-	}
+
 }
 

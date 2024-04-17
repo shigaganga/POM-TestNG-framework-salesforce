@@ -122,12 +122,12 @@ public void monthviewEvent37() {
 	randompage.RandomHomeobj();
 	randompage.randomCXalenderlink();
 	randompage.random4pm();
-	randompage.RandomparentWindow();
+	String parent=randompage.getParentWindow();
 	randompage.randomSubjectcombo();
 	randompage.randomNewwindow();
 	randompage.randomOtherOption();
-	randompage.RandowParentSwichBack();
-	String endtime2=prop.getproperties("randomEndTime2");
+	randompage.switchToparentWndow(parent);
+	String endtime2=prop.getproperties("randomEndTime");
 	randompage.randomndtime2(endtime2);
 	randompage.randomRecurance();
 	randompage.RecTypeFtw();

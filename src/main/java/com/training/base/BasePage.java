@@ -71,19 +71,18 @@ public class BasePage {
 			        }
 				 System.out.println("Title of the new window:" + driver.getTitle());	}}
 					
-
-		
 		public void switchToparentWndow(String parentwindow) {
-						Set<String>windowHandles=driver.getWindowHandles();
-						for(String newWindowHandle:windowHandles) {
-							 if (!newWindowHandle.equals(parentwindow))
-						        {
-						        
-								 driver.switchTo().window(newWindowHandle);
-						        }}
-                         driver.switchTo().window(parentwindow);
-						
-					}
+			Set<String>windowHandles=driver.getWindowHandles();
+			for(String newWindowHandle:windowHandles) {
+				 if (newWindowHandle.equals(parentwindow))
+			        {
+			        
+					 driver.switchTo().window(parentwindow);
+			        }
+				 System.out.println("Title of the new window:" + driver.getTitle());	}}
+					
+		
+		
 		public void SwitchParentwind() {
 			driver.close();
 		}

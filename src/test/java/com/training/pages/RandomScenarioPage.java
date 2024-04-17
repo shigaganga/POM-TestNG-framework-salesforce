@@ -170,7 +170,8 @@ public void random4pm() {
 WebElement endTime2;
 public void randomndtime2(String time) {
 	clearElement(endTime2);
-	enterText(endTime2, time);}
+	enterText(endTime2, time);
+	}
 	@FindBy(xpath="//input[@id='IsRecurrence']")
 	WebElement recurrenceEle;
 	public void randomRecurance() {

@@ -910,3 +910,639 @@
 2024-04-07 16:55:21,770 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (6ccf274e8c1a38837ffa8b6f05baa149)] -> id: username] 
 2024-04-07 16:55:21,770 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
 2024-04-07 16:55:23,009 INFO  [Log] Entered in to the homepage 
+2024-04-09 10:51:32,515 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-09 10:51:32,741 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (4b73adeddfde5d77d0f7638f339715c8)] -> id: username] 
+2024-04-09 10:51:33,159 INFO  [Log] Entered in to the homepage 
+2024-04-09 10:51:33,160 WARN  [Log] Please enter the correct password 
+2024-04-09 10:51:33,160 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-04-09 10:52:33,698 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-09 10:52:34,042 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (743d5538af56addb4e8f9cd721307fe4)] -> id: username] 
+2024-04-09 10:52:34,042 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-09 10:52:35,231 INFO  [Log] Entered in to the homepage 
+2024-04-09 10:52:35,231 WARN  [Log] login clicked 
+2024-04-09 10:53:22,087 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-09 10:53:22,489 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (dd31725f82af35158587f1fb5163774a)] -> id: username] 
+2024-04-09 10:53:22,489 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-09 10:53:23,819 INFO  [Log] Entered in to the homepage 
+2024-04-09 10:53:25,855 INFO  [Log] usemenu dropdown clicked 
+2024-04-09 10:53:26,076 INFO  [Log] username displayed in usernamefield 
+2024-04-09 10:55:33,209 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-09 10:55:33,656 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (969ff39534a77254ad06eef66a32a746)] -> id: username] 
+2024-04-09 10:55:33,657 INFO  [Log] Successfully entered the username123 
+2024-04-09 10:55:34,000 INFO  [Log] Entered in to the homepage 
+2024-04-09 10:55:34,070 INFO  [Log] Error message displayed 
+2024-04-09 10:56:15,484 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-09 10:56:15,856 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0e2f53e419b91799408342414a710ca9)] -> id: username] 
+2024-04-09 10:56:15,856 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-09 10:56:16,058 INFO  [Log] forgot password page 
+2024-04-09 11:09:16,304 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-09 11:09:16,997 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (46a11c367dff4666dad4fd8ed018f97f)] -> id: username] 
+2024-04-09 11:09:18,437 INFO  [Log] Entered in to the homepage 
+2024-04-09 11:09:20,336 INFO  [Log] contactpage displayed 
+2024-04-12 21:02:14,963 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-12 21:02:15,174 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (abc5d9e900f53a9a855e1fd287d49985)] -> id: username] 
+2024-04-12 21:02:15,175 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-12 21:02:17,548 INFO  [Log] Entered in to the homepage 
+2024-04-12 21:02:17,549 INFO  [Log] Entered in to the homepage 
+2024-04-12 21:02:19,405 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-12 21:02:21,619 INFO  [Log] table clicked 
+2024-04-12 21:02:21,619 INFO  [Log] after window change 
+2024-04-12 21:10:33,517 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-12 21:10:33,681 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (abaf10f2589b563d972c12ca8cc86cf8)] -> id: username] 
+2024-04-12 21:10:33,682 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-12 21:10:34,886 INFO  [Log] Entered in to the homepage 
+2024-04-12 21:10:34,886 INFO  [Log] Entered in to the homepage 
+2024-04-12 21:10:36,568 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-12 21:10:38,772 INFO  [Log] table clicked 
+2024-04-12 21:10:38,773 INFO  [Log] after window change 
+2024-04-15 19:54:16,276 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 19:54:16,663 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (d8eb98c41fed6c46111e7abec5351a2d)] -> id: username] 
+2024-04-15 19:54:17,001 INFO  [Log] Entered in to the homepage 
+2024-04-15 19:54:17,001 WARN  [Log] Please enter the correct password 
+2024-04-15 19:54:17,001 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-04-15 20:33:58,741 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:33:59,069 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (4b05f5137d899072e3f90d1d13400a38)] -> id: username] 
+2024-04-15 20:33:59,069 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 20:34:00,169 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:34:00,170 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:34:02,109 INFO  [Log] usermenudropdown visibled 
+2024-04-15 20:34:03,110 INFO  [Log] new developer console window opened 
+2024-04-15 20:34:04,484 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:34:04,619 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (88092f9124ade514b92c14f667fa479f)] -> id: username] 
+2024-04-15 20:34:04,619 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 20:34:05,587 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:34:05,588 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:34:06,614 INFO  [Log] usermenudropdown visibled 
+2024-04-15 20:34:07,924 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:34:08,101 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (e7c961501a30b110175328b09dba8c33)] -> id: username] 
+2024-04-15 20:34:08,102 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 20:34:08,997 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:34:08,997 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:34:11,151 INFO  [Log] usermenudropdown visibled 
+2024-04-15 20:34:12,437 INFO  [Log] Profile clicked from usermenu 
+2024-04-15 20:34:12,532 INFO  [Log] editpen clicked 
+2024-04-15 20:34:14,358 INFO  [Log] text is entered 
+2024-04-15 20:34:18,967 WARN  [Log] manually delete photo in each execution,so update photolink choosed 
+2024-04-15 20:34:21,237 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:34:21,346 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (7831f4c3d6ae8ad224d7d6d29dc608a2)] -> id: username] 
+2024-04-15 20:34:21,346 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 20:34:22,330 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:34:22,331 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:34:24,393 INFO  [Log] usermenudropdown visibled 
+2024-04-15 20:34:27,917 INFO  [Log] Test case is passed,calender remainder works fine 
+2024-04-15 20:34:29,066 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:34:29,217 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (dd35ddf26efd03c35c0d4197b0c18f10)] -> id: username] 
+2024-04-15 20:34:29,218 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 20:34:30,260 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:34:30,260 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:34:32,458 INFO  [Log] usermenudropdown visibled 
+2024-04-15 20:34:58,065 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:34:58,271 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (86712466d6cc85c82cce3442fa2726fb)] -> id: username] 
+2024-04-15 20:35:00,419 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:35:06,114 INFO  [Log] test case passed,new lead saved 
+2024-04-15 20:35:06,216 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:35:06,645 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (86712466d6cc85c82cce3442fa2726fb)] -> id: username] 
+2024-04-15 20:35:07,093 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:35:08,642 INFO  [Log] Viewdropdownlist displayed 
+2024-04-15 20:35:19,498 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:35:19,859 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (86712466d6cc85c82cce3442fa2726fb)] -> id: username] 
+2024-04-15 20:35:20,332 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:35:21,919 INFO  [Log] Viewdropdownlist displayed 
+2024-04-15 20:35:22,014 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:35:22,386 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (86712466d6cc85c82cce3442fa2726fb)] -> id: username] 
+2024-04-15 20:35:22,914 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:35:24,057 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:35:24,310 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (86712466d6cc85c82cce3442fa2726fb)] -> id: username] 
+2024-04-15 20:35:24,819 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:35:27,325 INFO  [Log] Viewdropdownlist displayed 
+2024-04-15 20:35:27,809 INFO  [Log] TodaysLead displayed 
+2024-04-15 20:35:52,303 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:35:52,666 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (81c4d2942333a27586788f18a5c79fee)] -> id: username] 
+2024-04-15 20:35:53,942 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:35:56,850 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-15 20:35:57,045 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:35:57,484 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (81c4d2942333a27586788f18a5c79fee)] -> id: username] 
+2024-04-15 20:35:57,484 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 20:35:58,053 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:35:58,053 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:36:01,624 INFO  [Log] testcase passed,reportpage displayed with criteria 
+2024-04-15 20:36:01,746 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:36:02,160 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (81c4d2942333a27586788f18a5c79fee)] -> id: username] 
+2024-04-15 20:36:02,160 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 20:36:02,660 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:36:02,660 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:36:05,315 INFO  [Log] StuckOpportunities Reports displayed 
+2024-04-15 20:36:05,421 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 20:36:05,812 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (81c4d2942333a27586788f18a5c79fee)] -> id: username] 
+2024-04-15 20:36:05,814 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 20:36:06,354 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:36:06,354 INFO  [Log] Entered in to the homepage 
+2024-04-15 20:36:07,611 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-15 20:36:10,010 INFO  [Log] table clicked 
+2024-04-15 20:36:10,010 INFO  [Log] after window change 
+2024-04-15 22:25:27,893 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:25:28,248 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (b75247dc7bcc851c1545f8737ba5d247)] -> id: username] 
+2024-04-15 22:25:28,544 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:25:28,545 WARN  [Log] Please enter the correct password 
+2024-04-15 22:25:28,545 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-04-15 22:25:32,024 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:25:32,152 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (3186fb86cc369e0c1bc9deca590787d3)] -> id: username] 
+2024-04-15 22:25:32,152 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:25:33,333 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:25:33,333 WARN  [Log] login clicked 
+2024-04-15 22:25:35,790 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:25:36,000 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (6f36cca4a5d031e0c091907900637238)] -> id: username] 
+2024-04-15 22:25:36,000 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:25:36,157 INFO  [Log] forgot password page 
+2024-04-15 22:25:38,722 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:25:38,893 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (54c3b89a2010d4741eb0701fd1bd108b)] -> id: username] 
+2024-04-15 22:25:38,894 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:25:39,965 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:25:41,296 INFO  [Log] usemenu dropdown clicked 
+2024-04-15 22:25:41,487 INFO  [Log] username displayed in usernamefield 
+2024-04-15 22:25:42,660 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:25:42,856 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (922f58a292c7e5675e170a13c70b3e3b)] -> id: username] 
+2024-04-15 22:25:42,856 INFO  [Log] Successfully entered the username123 
+2024-04-15 22:25:43,196 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:25:43,226 INFO  [Log] Error message displayed 
+2024-04-15 22:36:05,334 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:36:05,584 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (ed5a90b592f76be1539230e69620f65c)] -> id: username] 
+2024-04-15 22:36:05,584 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:36:06,806 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:36:06,806 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:36:08,924 INFO  [Log] usermenudropdown visibled 
+2024-04-15 22:36:10,354 INFO  [Log] new developer console window opened 
+2024-04-15 22:36:11,683 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:36:11,855 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (e90cf73fff053d2b3a102c2f354999b8)] -> id: username] 
+2024-04-15 22:36:11,856 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:36:12,890 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:36:12,890 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:36:14,151 INFO  [Log] usermenudropdown visibled 
+2024-04-15 22:36:15,511 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:36:15,847 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (40bb64e04f31a4344a2d22e1fb983f30)] -> id: username] 
+2024-04-15 22:36:15,847 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:36:16,911 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:36:16,912 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:36:18,327 INFO  [Log] usermenudropdown visibled 
+2024-04-15 22:36:19,176 INFO  [Log] Profile clicked from usermenu 
+2024-04-15 22:36:19,269 INFO  [Log] editpen clicked 
+2024-04-15 22:36:21,255 INFO  [Log] text is entered 
+2024-04-15 22:36:25,267 WARN  [Log] manually delete photo in each execution,so update photolink choosed 
+2024-04-15 22:36:26,524 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:36:26,700 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (fb0e49576e8d7a144953605774e9f531)] -> id: username] 
+2024-04-15 22:36:26,700 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:36:27,796 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:36:27,796 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:36:29,446 INFO  [Log] usermenudropdown visibled 
+2024-04-15 22:36:33,150 INFO  [Log] Test case is passed,calender remainder works fine 
+2024-04-15 22:36:34,263 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:36:34,421 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0399d83d8229bd2563bf813b240a2fc1)] -> id: username] 
+2024-04-15 22:36:34,421 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:36:35,652 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:36:35,653 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:36:38,915 INFO  [Log] usermenudropdown visibled 
+2024-04-15 22:42:59,756 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:43:00,084 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (6adf2606583e4cb022510c5265877352)] -> id: username] 
+2024-04-15 22:43:00,084 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:43:01,222 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:43:01,222 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:43:05,011 INFO  [Log] Last activity displayed 
+2024-04-15 22:43:05,559 INFO  [Log] testcase passed 
+2024-04-15 22:43:05,663 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:43:06,079 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (6adf2606583e4cb022510c5265877352)] -> id: username] 
+2024-04-15 22:43:06,079 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:43:06,674 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:43:06,676 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:43:09,292 INFO  [Log] Testcase passed in createnewview 
+2024-04-15 22:43:09,396 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:43:09,764 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (6adf2606583e4cb022510c5265877352)] -> id: username] 
+2024-04-15 22:43:09,764 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:43:10,162 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:43:10,163 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:43:14,435 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:43:14,875 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (6adf2606583e4cb022510c5265877352)] -> id: username] 
+2024-04-15 22:43:14,875 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:43:15,319 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:43:15,319 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:43:16,970 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:43:17,356 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (6adf2606583e4cb022510c5265877352)] -> id: username] 
+2024-04-15 22:43:17,356 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:43:17,800 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:43:17,801 INFO  [Log] Entered in to the homepage 
+2024-04-15 22:43:26,062 INFO  [Log] Account page displayed with merged account 
+2024-04-15 22:48:24,098 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-15 22:48:24,254 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (f60d2f248c1df62b238eea701eee059f)] -> id: username] 
+2024-04-15 22:48:24,255 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-15 22:48:25,350 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:17:11,714 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 11:17:12,990 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 11:17:13,026 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 11:17:14,664 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (20da6c08b4d2ea441a8bed3ce755d5cf)] -> id: username] 
+2024-04-17 11:17:14,665 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 11:17:14,708 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (cfd461b9602f1854220d2322a6bdb909)] -> id: username] 
+2024-04-17 11:17:14,708 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 11:17:16,198 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:17:16,198 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:17:16,374 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:17:16,375 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:17:19,293 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-17 11:17:22,317 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-17 11:17:25,959 INFO  [Log] table clicked 
+2024-04-17 11:17:25,961 INFO  [Log] after window change 
+2024-04-17 11:17:26,947 INFO  [Log] table clicked 
+2024-04-17 11:17:26,949 INFO  [Log] after window change 
+2024-04-17 11:37:48,557 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 11:37:49,740 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (446291d9e2247829fb2b941a1a7dbcc2)] -> id: username] 
+2024-04-17 11:37:49,741 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 11:37:50,966 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:37:50,967 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:37:53,504 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-17 11:37:56,629 INFO  [Log] table clicked 
+2024-04-17 11:43:47,631 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 11:43:48,973 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (9abe124b2f80d39ed2986c7b144f4d47)] -> id: username] 
+2024-04-17 11:43:48,975 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 11:43:50,606 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:43:50,607 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:43:53,331 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-17 11:43:56,755 INFO  [Log] table clicked 
+2024-04-17 11:49:41,511 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 11:49:42,889 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (67de0c20c75f7c3f7c2b2dad29b44c68)] -> id: username] 
+2024-04-17 11:49:42,890 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 11:49:46,075 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:49:46,075 INFO  [Log] Entered in to the homepage 
+2024-04-17 11:49:47,257 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-17 11:49:50,547 INFO  [Log] table clicked 
+2024-04-17 11:49:50,614 INFO  [Log] after window change 
+2024-04-17 15:24:25,391 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:24:25,870 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (058d9e7a9694e42899b436cdcba9a0e7)] -> id: username] 
+2024-04-17 15:24:25,871 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:24:27,012 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:24:27,014 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:24:28,726 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-17 15:24:31,017 INFO  [Log] table clicked 
+2024-04-17 15:24:31,051 INFO  [Log] after window change 
+2024-04-17 15:28:47,583 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:28:47,951 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (72e015ea73f922e9e744eaa58b218293)] -> id: username] 
+2024-04-17 15:28:47,951 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:28:48,939 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:28:48,939 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:28:50,584 INFO  [Log] opportunity dropdown is clicked,testcase passed 
+2024-04-17 15:28:52,804 INFO  [Log] table clicked 
+2024-04-17 15:28:52,839 INFO  [Log] after window change 
+2024-04-17 15:28:55,962 INFO  [Log] Testcase passed new opportunity created 
+2024-04-17 15:38:27,988 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:38:28,398 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (6da89ed4621748249b4760ad309e949d)] -> id: username] 
+2024-04-17 15:38:29,648 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:38:31,138 INFO  [Log] contactpage displayed 
+2024-04-17 15:38:34,440 INFO  [Log] test case passed for save&new 
+2024-04-17 15:39:01,161 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:39:01,525 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0f50e9007e2f50e71b98600044744902)] -> id: username] 
+2024-04-17 15:39:02,531 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:39:04,000 INFO  [Log] contactpage displayed 
+2024-04-17 15:39:08,491 INFO  [Log] new contact page is created 
+2024-04-17 15:39:08,596 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:39:08,802 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0f50e9007e2f50e71b98600044744902)] -> id: username] 
+2024-04-17 15:39:09,545 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:39:10,935 INFO  [Log] contactpage displayed 
+2024-04-17 15:39:12,293 INFO  [Log] ViewName page is displayed,Testcase passed in createnewview 
+2024-04-17 15:39:12,432 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:39:12,662 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0f50e9007e2f50e71b98600044744902)] -> id: username] 
+2024-04-17 15:39:13,418 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:39:14,683 INFO  [Log] contactpage displayed 
+2024-04-17 15:39:14,830 INFO  [Log] testcase passed,My contacts page view is page is displayed 
+2024-04-17 15:39:14,924 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:39:15,195 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0f50e9007e2f50e71b98600044744902)] -> id: username] 
+2024-04-17 15:39:16,173 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:39:17,351 INFO  [Log] contactpage displayed 
+2024-04-17 15:39:18,666 INFO  [Log] test case passed,canceled so return back to contact homepage 
+2024-04-17 15:39:18,771 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:39:19,210 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0f50e9007e2f50e71b98600044744902)] -> id: username] 
+2024-04-17 15:39:19,935 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:39:21,231 INFO  [Log] contactpage displayed 
+2024-04-17 15:39:21,973 INFO  [Log] one contact info is displayed 
+2024-04-17 15:39:22,089 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:39:22,351 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0f50e9007e2f50e71b98600044744902)] -> id: username] 
+2024-04-17 15:39:23,045 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:39:24,127 INFO  [Log] contactpage displayed 
+2024-04-17 15:39:27,193 INFO  [Log] test case passed for save&new 
+2024-04-17 15:39:27,302 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:39:27,727 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0f50e9007e2f50e71b98600044744902)] -> id: username] 
+2024-04-17 15:39:28,287 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:39:29,704 INFO  [Log] contactpage displayed 
+2024-04-17 15:39:29,801 INFO  [Log] testcase passed,recently created contact page is displayed 
+2024-04-17 15:39:29,913 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:39:30,309 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0f50e9007e2f50e71b98600044744902)] -> id: username] 
+2024-04-17 15:39:30,913 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:39:32,226 INFO  [Log] contactpage displayed 
+2024-04-17 15:39:33,443 INFO  [Log] ViewName page is displayed,Testcase passed in createnewview 
+2024-04-17 15:41:01,978 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:41:02,370 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (e03770c210caf6880cc01f7ad7da172b)] -> id: username] 
+2024-04-17 15:41:02,370 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:41:03,509 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:41:03,510 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:41:07,658 INFO  [Log] Last activity displayed 
+2024-04-17 15:41:09,036 INFO  [Log] testcase passed 
+2024-04-17 15:41:09,138 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:41:09,310 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (e03770c210caf6880cc01f7ad7da172b)] -> id: username] 
+2024-04-17 15:41:09,310 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:41:10,039 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:41:10,039 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:41:12,788 INFO  [Log] Testcase passed in createnewview 
+2024-04-17 15:41:12,924 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:41:13,306 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (e03770c210caf6880cc01f7ad7da172b)] -> id: username] 
+2024-04-17 15:41:13,306 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:41:14,022 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:41:14,023 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:41:18,323 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:41:18,581 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (e03770c210caf6880cc01f7ad7da172b)] -> id: username] 
+2024-04-17 15:41:18,582 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:41:19,699 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:41:19,701 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:41:20,955 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:41:21,331 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (e03770c210caf6880cc01f7ad7da172b)] -> id: username] 
+2024-04-17 15:41:21,331 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:41:21,820 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:41:21,820 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:41:25,698 INFO  [Log] Account page displayed with merged account 
+2024-04-17 15:45:00,936 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:45:01,343 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (717baa6e8f39a890333f58fc755b24e2)] -> id: username] 
+2024-04-17 15:45:01,344 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:45:02,455 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:02,455 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:03,552 INFO  [Log] usermenudropdown visibled 
+2024-04-17 15:45:04,424 INFO  [Log] new developer console window opened 
+2024-04-17 15:45:05,995 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:45:06,159 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (fb81c8f107ffbaa0afa18027898ef475)] -> id: username] 
+2024-04-17 15:45:06,159 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:45:07,103 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:07,105 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:09,015 INFO  [Log] usermenudropdown visibled 
+2024-04-17 15:45:10,583 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:45:10,759 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (1fc1e70ccfdc4f3d50c420076369d3fb)] -> id: username] 
+2024-04-17 15:45:10,760 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:45:11,836 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:11,837 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:13,003 INFO  [Log] usermenudropdown visibled 
+2024-04-17 15:45:13,868 INFO  [Log] Profile clicked from usermenu 
+2024-04-17 15:45:13,979 INFO  [Log] editpen clicked 
+2024-04-17 15:45:16,797 INFO  [Log] text is entered 
+2024-04-17 15:45:22,310 WARN  [Log] manually delete photo in each execution,so update photolink choosed 
+2024-04-17 15:45:23,700 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:45:23,888 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (1ef5ce7fccc53cd9d876005c561fa644)] -> id: username] 
+2024-04-17 15:45:23,888 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:45:24,967 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:24,967 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:26,096 INFO  [Log] usermenudropdown visibled 
+2024-04-17 15:45:29,856 INFO  [Log] Test case is passed,calender remainder works fine 
+2024-04-17 15:45:31,193 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:45:31,336 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (fe56bd3316eac8c9f84cf02f891ded55)] -> id: username] 
+2024-04-17 15:45:31,336 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:45:32,377 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:32,377 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:33,456 INFO  [Log] usermenudropdown visibled 
+2024-04-17 15:45:55,425 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:45:55,777 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (b6cab1d40ff767c6b9d253c9d7d4b4dd)] -> id: username] 
+2024-04-17 15:45:55,777 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:45:56,778 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:56,779 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:45:59,142 INFO  [Log] Last activity displayed 
+2024-04-17 15:45:59,990 INFO  [Log] testcase passed 
+2024-04-17 15:46:00,117 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:46:00,411 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (b6cab1d40ff767c6b9d253c9d7d4b4dd)] -> id: username] 
+2024-04-17 15:46:00,411 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:46:01,266 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:46:01,267 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:46:03,936 INFO  [Log] Testcase passed in createnewview 
+2024-04-17 15:46:04,060 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:46:04,441 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (b6cab1d40ff767c6b9d253c9d7d4b4dd)] -> id: username] 
+2024-04-17 15:46:04,442 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:46:05,308 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:46:05,309 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:46:09,594 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:46:09,871 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (b6cab1d40ff767c6b9d253c9d7d4b4dd)] -> id: username] 
+2024-04-17 15:46:09,871 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:46:10,846 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:46:10,846 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:46:12,407 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:46:12,816 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (b6cab1d40ff767c6b9d253c9d7d4b4dd)] -> id: username] 
+2024-04-17 15:46:12,816 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:46:13,468 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:46:13,468 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:46:16,779 INFO  [Log] Account page displayed with merged account 
+2024-04-17 15:57:02,135 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 15:57:02,529 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (0587299b174cc1dd3371f4d18a6bf8e9)] -> id: username] 
+2024-04-17 15:57:02,529 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 15:57:03,552 INFO  [Log] Entered in to the homepage 
+2024-04-17 15:57:03,552 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:00:15,316 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 16:00:15,750 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (f8aed848d7c8ff925f9b6376801d5d60)] -> id: username] 
+2024-04-17 16:00:15,750 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 16:00:16,944 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:00:16,945 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:02:01,396 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 16:02:01,748 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (3aa8ffa8eacecb1f61770bd681ad6c85)] -> id: username] 
+2024-04-17 16:02:01,748 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 16:02:02,879 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:02:02,879 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:05:03,780 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 16:05:04,164 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (4fe790524f46b71bba3c0d183d396eb2)] -> id: username] 
+2024-04-17 16:05:05,399 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:05:11,259 INFO  [Log] test case passed,new lead saved 
+2024-04-17 16:05:11,364 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 16:05:11,790 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (4fe790524f46b71bba3c0d183d396eb2)] -> id: username] 
+2024-04-17 16:05:12,290 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:05:14,243 INFO  [Log] Viewdropdownlist displayed 
+2024-04-17 16:05:25,140 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 16:05:25,331 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (4fe790524f46b71bba3c0d183d396eb2)] -> id: username] 
+2024-04-17 16:05:26,325 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:05:27,732 INFO  [Log] Viewdropdownlist displayed 
+2024-04-17 16:05:27,923 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 16:05:28,195 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (4fe790524f46b71bba3c0d183d396eb2)] -> id: username] 
+2024-04-17 16:05:28,921 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:05:30,517 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 16:05:30,938 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (4fe790524f46b71bba3c0d183d396eb2)] -> id: username] 
+2024-04-17 16:05:31,728 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:05:33,328 INFO  [Log] Viewdropdownlist displayed 
+2024-04-17 16:05:33,788 INFO  [Log] TodaysLead displayed 
+2024-04-17 16:08:25,673 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 16:08:26,033 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (5f443648c91d67dda14a035ce1b2d65b)] -> id: username] 
+2024-04-17 16:08:26,033 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 16:08:27,143 INFO  [Log] Entered in to the homepage 
+2024-04-17 16:10:42,654 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 16:10:43,058 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (92a9bf0decb915a6330b2bd8758c6519)] -> id: username] 
+2024-04-17 16:10:43,059 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 16:10:44,170 INFO  [Log] Entered in to the homepage 
+2024-04-17 17:57:51,306 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 17:57:51,668 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (47a45750b15cc49783576d0c83dcbf2d)] -> id: username] 
+2024-04-17 17:57:51,668 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 17:57:52,632 INFO  [Log] Entered in to the homepage 
+2024-04-17 17:57:52,635 INFO  [Log] Entered in to the homepage 
+2024-04-17 17:59:16,241 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 17:59:16,589 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (3e063f1323d39ec4fb8383b582dd3129)] -> id: username] 
+2024-04-17 17:59:16,589 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 17:59:17,561 INFO  [Log] Entered in to the homepage 
+2024-04-17 17:59:17,561 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:03:21,528 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:03:21,861 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (9d4421fbdd3e3ad81d9d80f218a7075d)] -> id: username] 
+2024-04-17 18:03:21,863 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:03:22,941 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:03:22,941 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:03:26,776 INFO  [Log]  EditView testcase passed 
+2024-04-17 18:04:17,370 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:04:17,721 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (62f335491d90c3476f2b0ed6583ed79f)] -> id: username] 
+2024-04-17 18:04:17,721 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:04:18,772 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:18,773 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:21,689 INFO  [Log] Last activity displayed 
+2024-04-17 18:04:22,211 INFO  [Log] testcase passed 
+2024-04-17 18:04:22,327 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:04:22,493 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (62f335491d90c3476f2b0ed6583ed79f)] -> id: username] 
+2024-04-17 18:04:22,493 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:04:23,261 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:23,262 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:26,137 INFO  [Log] Testcase passed in createnewview 
+2024-04-17 18:04:26,241 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:04:26,471 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (62f335491d90c3476f2b0ed6583ed79f)] -> id: username] 
+2024-04-17 18:04:26,472 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:04:27,285 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:27,285 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:31,346 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:04:31,680 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (62f335491d90c3476f2b0ed6583ed79f)] -> id: username] 
+2024-04-17 18:04:31,680 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:04:32,425 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:32,426 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:35,755 INFO  [Log]  EditView testcase passed 
+2024-04-17 18:04:35,845 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:04:36,235 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (62f335491d90c3476f2b0ed6583ed79f)] -> id: username] 
+2024-04-17 18:04:36,235 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:04:36,875 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:36,875 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:39,415 INFO  [Log] Account page displayed with merged account 
+2024-04-17 18:04:50,130 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:04:50,488 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (a9402fdc946bb0ff4f14ea227870fa02)] -> id: username] 
+2024-04-17 18:04:50,488 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:04:51,447 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:51,447 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:53,878 INFO  [Log] Last activity displayed 
+2024-04-17 18:04:54,454 INFO  [Log] testcase passed 
+2024-04-17 18:04:54,577 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:04:54,941 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (a9402fdc946bb0ff4f14ea227870fa02)] -> id: username] 
+2024-04-17 18:04:54,942 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:04:55,455 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:55,456 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:58,206 INFO  [Log] Testcase passed in createnewview 
+2024-04-17 18:04:58,311 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:04:58,717 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (a9402fdc946bb0ff4f14ea227870fa02)] -> id: username] 
+2024-04-17 18:04:58,718 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:04:59,474 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:04:59,474 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:05:03,564 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:05:03,930 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (a9402fdc946bb0ff4f14ea227870fa02)] -> id: username] 
+2024-04-17 18:05:03,930 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:05:04,903 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:05:04,903 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:05:08,464 INFO  [Log]  EditView testcase passed 
+2024-04-17 18:05:08,573 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:05:08,839 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (a9402fdc946bb0ff4f14ea227870fa02)] -> id: username] 
+2024-04-17 18:05:08,840 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:05:09,457 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:05:09,457 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:05:11,736 INFO  [Log] Account page displayed with merged account 
+2024-04-17 18:05:31,771 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:05:32,116 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (d4c761c43c3a4876287020b5b0702863)] -> id: username] 
+2024-04-17 18:05:33,170 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:05:36,862 INFO  [Log] test case passed,new lead saved 
+2024-04-17 18:05:36,984 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:05:37,170 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (d4c761c43c3a4876287020b5b0702863)] -> id: username] 
+2024-04-17 18:05:38,099 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:05:39,316 INFO  [Log] Viewdropdownlist displayed 
+2024-04-17 18:05:50,219 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:05:50,496 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (d4c761c43c3a4876287020b5b0702863)] -> id: username] 
+2024-04-17 18:05:51,387 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:05:52,824 INFO  [Log] Viewdropdownlist displayed 
+2024-04-17 18:05:52,963 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:05:53,342 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (d4c761c43c3a4876287020b5b0702863)] -> id: username] 
+2024-04-17 18:05:53,959 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:05:55,197 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:05:55,586 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (d4c761c43c3a4876287020b5b0702863)] -> id: username] 
+2024-04-17 18:05:56,189 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:05:57,379 INFO  [Log] Viewdropdownlist displayed 
+2024-04-17 18:05:57,817 INFO  [Log] TodaysLead displayed 
+2024-04-17 18:09:47,316 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:09:47,690 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (c4367e2415bce7b2b087f79c81d77e87)] -> id: username] 
+2024-04-17 18:09:48,748 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:10:03,146 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:10:03,506 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (e97c26e889d90401a30c1a0254220b70)] -> id: username] 
+2024-04-17 18:10:04,565 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:10:06,263 INFO  [Log] Viewdropdownlist displayed 
+2024-04-17 18:10:13,666 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:10:14,095 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (8352571a597fd42432b57669d4cfb050)] -> id: username] 
+2024-04-17 18:10:15,293 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:10:17,405 INFO  [Log] Viewdropdownlist displayed 
+2024-04-17 18:10:28,059 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:10:28,510 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (61c400d8b32a6e8dbcd00d091f9f5b50)] -> id: username] 
+2024-04-17 18:10:29,555 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:10:31,099 INFO  [Log] Viewdropdownlist displayed 
+2024-04-17 18:10:31,728 INFO  [Log] TodaysLead displayed 
+2024-04-17 18:11:19,309 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:11:19,699 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (4b8e1bb1418abff8743acc300e8838bc)] -> id: username] 
+2024-04-17 18:11:20,766 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:11:24,522 INFO  [Log] test case passed,new lead saved 
+2024-04-17 18:11:41,194 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:11:41,665 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (25d0da2fa2ccda1f5716e6cdf1995e40)] -> id: username] 
+2024-04-17 18:11:41,665 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:11:43,000 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:11:43,001 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:11:45,863 INFO  [Log] Last activity displayed 
+2024-04-17 18:11:46,984 INFO  [Log] testcase passed 
+2024-04-17 18:11:47,115 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:11:47,392 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (25d0da2fa2ccda1f5716e6cdf1995e40)] -> id: username] 
+2024-04-17 18:11:47,392 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:11:48,515 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:11:48,515 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:11:51,343 INFO  [Log] Testcase passed in createnewview 
+2024-04-17 18:11:51,499 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:11:51,917 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (25d0da2fa2ccda1f5716e6cdf1995e40)] -> id: username] 
+2024-04-17 18:11:51,917 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:11:52,409 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:11:52,409 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:11:56,766 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:11:57,079 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (25d0da2fa2ccda1f5716e6cdf1995e40)] -> id: username] 
+2024-04-17 18:11:57,080 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:11:57,968 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:11:57,968 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:11:59,539 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:11:59,925 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (25d0da2fa2ccda1f5716e6cdf1995e40)] -> id: username] 
+2024-04-17 18:11:59,925 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:12:00,444 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:00,445 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:03,143 INFO  [Log] Account page displayed with merged account 
+2024-04-17 18:12:31,155 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:12:31,456 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (3a229ed19230e0a8159c536cda2ad683)] -> id: username] 
+2024-04-17 18:12:31,457 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:12:32,735 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:32,735 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:35,600 INFO  [Log] Last activity displayed 
+2024-04-17 18:12:36,855 INFO  [Log] testcase passed 
+2024-04-17 18:12:36,951 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:12:37,361 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (3a229ed19230e0a8159c536cda2ad683)] -> id: username] 
+2024-04-17 18:12:37,361 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:12:37,819 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:37,819 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:40,450 INFO  [Log] Testcase passed in createnewview 
+2024-04-17 18:12:40,554 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:12:40,917 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (3a229ed19230e0a8159c536cda2ad683)] -> id: username] 
+2024-04-17 18:12:40,919 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:12:41,344 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:41,345 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:45,409 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:12:45,895 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (3a229ed19230e0a8159c536cda2ad683)] -> id: username] 
+2024-04-17 18:12:45,895 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:12:46,365 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:46,366 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:47,959 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-04-17 18:12:48,325 INFO  [Log] Successfully entered the username[[ChromeDriver: chrome on WINDOWS (3a229ed19230e0a8159c536cda2ad683)] -> id: username] 
+2024-04-17 18:12:48,325 INFO  [Log] Successfully entered the usernameshiga@tekarch.com 
+2024-04-17 18:12:48,779 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:48,779 INFO  [Log] Entered in to the homepage 
+2024-04-17 18:12:51,363 INFO  [Log] Account page displayed with merged account 

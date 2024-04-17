@@ -119,7 +119,7 @@ public void editview() {
 @FindBy(xpath="//input[@id='fname']")
 	WebElement viewnamefield;
 public void newviewname(String newviewname) {
-clearElement(viewnamefield);
+	clearElement(viewnamefield);
 enterText(viewnamefield, newviewname);
 }
 @FindBy(xpath="//input[@id='devname']")

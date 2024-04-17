@@ -106,7 +106,7 @@ public void tableClick() {
 	clickElement(table);
 }
 public void currentwindowaftertableClick() {
-	String parent=getParentWindow();
+String parent=getParentWindow();
 	switchToparentWndow(parent);
 }
 
@@ -124,7 +124,7 @@ public void stageSelect() {
 @FindBy(xpath="//select[@id='opp6']")
 	WebElement leadsource;
 public void selectLeadSource() {
-	selectIndex(Searchicon, 2);
+	selectIndex(leadsource, 2);
 }
 @FindBy(xpath="//input[@id='opp17']")
 	WebElement primaryCampaign;

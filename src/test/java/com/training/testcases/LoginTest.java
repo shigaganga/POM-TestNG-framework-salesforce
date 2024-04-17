@@ -35,7 +35,7 @@ public class LoginTest extends BaseTest{
 
 
 	@Test
-	public void invalidlogin() {
+	public void invalidlogin1() {
 	//Sequence of steps
 		Log.startTestCase("Login Testcase");
 	  String username = prop.getproperties("username");
@@ -49,7 +49,7 @@ public class LoginTest extends BaseTest{
       
 	}
 	@Test
-	public void login() {
+	public void login2() {
 		//Sequence of steps
 		 Log.startTestCase("Login Testcase");
 		  String username = prop.getproperties("username");
@@ -61,7 +61,7 @@ public class LoginTest extends BaseTest{
 	      Log.warn("login clicked");
 		}
 	@Test
-	public void loginRememberme() {
+	public void loginRememberme3() {
 		//Sequence of steps
 		 Log.startTestCase("Login Testcase");
 		 loginpage.remembermeclick();
@@ -79,7 +79,7 @@ public class LoginTest extends BaseTest{
 		}
 
 	@Test
-	public void loginForgotpassword() {
+	public void loginForgotpassword4() {
 	//Sequence of steps
 	 Log.startTestCase("Login Testcase");
 	 loginpage.remembermeclick();
@@ -93,7 +93,7 @@ public class LoginTest extends BaseTest{
       loginpage.Continuename();
 	}
 	@Test
-	public void wrongusernamepw() {
+	public void wrongusernamepw4() {
 	//Sequence of steps
 	 Log.startTestCase("Login Testcase");
 	 loginpage.remembermeclick();

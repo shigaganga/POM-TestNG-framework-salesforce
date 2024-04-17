@@ -64,6 +64,7 @@ import com.training.utilities.PropertiesFile;
 			      opportunitypage.newopp();
 			      String oppname=prop.getproperties("opportunityname");
 			      opportunitypage.oppName(oppname);
+			      String parent=opportunitypage.getParentWindow();
 			      opportunitypage.accname();
 			      opportunitypage.currentwindow();
 			      opportunitypage.searchiconopp();
@@ -75,7 +76,7 @@ import com.training.utilities.PropertiesFile;
 			     opportunitypage.frameEleOpp2();
 			     opportunitypage.tableClick();
 			     Log.info("table clicked");
-			   // opportunitypage.currentwindowaftertableClick();
+			     opportunitypage.switchToparentWndow(parent);
 			     Log.info("after window change");
 			     opportunitypage.closedate();
 			     opportunitypage.stageSelect();
@@ -87,7 +88,7 @@ import com.training.utilities.PropertiesFile;
 			      opportunitypage.campaignInput("*a*");
 			      opportunitypage.goCampDefaultFrme();
 			      opportunitypage.framecamp5();
-			      opportunitypage.tableCampDefaultWindow();
+			      opportunitypage.switchToparentWndow(parent);
 			      opportunitypage.saveopp();
 			      
 			      

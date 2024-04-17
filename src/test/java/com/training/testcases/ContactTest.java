@@ -54,6 +54,7 @@ public class ContactTest extends BaseTest{
 	   contactpage.contactObj();
 	   contactpage.contactNewBtn();
 	   contactpage.contactContinue();
+	   String parent=contactpage.getParentWindow();
 	   String contactLastname=prop.getproperties("contactLastname");
 	   contactpage.contactLastname(contactLastname);
 	   contactpage.contactCurrentWindow();
@@ -65,7 +66,7 @@ public class ContactTest extends BaseTest{
 	   contactpage.contactgo();
 	   contactpage.contactFrame2();
 	   contactpage.contactTable();
-	   contactpage.contactSwitchParrentWindow();
+	   contactpage.switchToparentWndow(parent);
 	   contactpage.contactSave();
 	   
 	   
@@ -170,6 +171,7 @@ public class ContactTest extends BaseTest{
 		   contactpage.contactObj();
 		   contactpage.contactNewBtn();
 		   contactpage.contactContinue();
+		   String parent=contactpage.getParentWindow();
 		   String contactLastname=prop.getproperties("contactLastname");
 		   contactpage.contactLastname(contactLastname);
 		   contactpage.contactCurrentWindow();
@@ -181,6 +183,6 @@ public class ContactTest extends BaseTest{
 		   contactpage.contactgo();
 		   contactpage.contactFrame2();
 		   contactpage.contactTable();
-		   contactpage.contactSwitchParrentWindow();
+		   contactpage.switchToparentWndow(parent);
 		   contactpage.contactSavenew();
 	 }}

@@ -85,9 +85,9 @@ public void accountcreation10() {
 			      loginpage.clickLogin();
 			      Log.info("Entered in to the homepage");
 			      accountpage.Accountobj();
-			      accountpage.selectview("viewname");
+			      accountpage.selectview("newViewname");
 			      accountpage.editview();
-			      accountpage.newviewname("newViewname");
+			      accountpage.newviewname("newViewname2");
 			      accountpage.newviewuniquename();
 			      accountpage.selectAccountname();
 			      accountpage.selectEquals();

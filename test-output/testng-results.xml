@@ -1,53 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results total="1" passed="0" failed="1" skipped="0">
+<testng-results total="5" passed="4" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-07T20:55:19Z" name="Default suite" finished-at="2024-04-07T20:55:26Z" duration-ms="6915">
+  <suite started-at="2024-04-17T22:12:29Z" name="Default suite" finished-at="2024-04-17T22:12:51Z" duration-ms="21748">
     <groups>
     </groups>
-    <test started-at="2024-04-07T20:55:19Z" name="Default test" finished-at="2024-04-07T20:55:26Z" duration-ms="6915">
-      <class name="com.training.testcases.RandomScenarioTest">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.training.testcases.RandomScenarioTest@7d900ecf]" started-at="2024-04-07T16:55:19Z" name="beforeMethod" finished-at="2024-04-07T16:55:21Z" duration-ms="1528" status="PASS">
+    <test started-at="2024-04-17T22:12:29Z" name="Default test" finished-at="2024-04-17T22:12:51Z" duration-ms="21748">
+      <class name="com.training.testcases.AccountTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.training.testcases.AccountTest@71075444]" started-at="2024-04-17T18:12:29Z" name="beforeMethod" finished-at="2024-04-17T18:12:31Z" duration-ms="1523" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="monthviewEvent37()[pri:0, instance:com.training.testcases.RandomScenarioTest@7d900ecf]" started-at="2024-04-07T16:55:21Z" name="monthviewEvent37" finished-at="2024-04-07T16:55:26Z" duration-ms="5372" status="FAIL">
-          <exception class="org.openqa.selenium.NoSuchWindowException">
+        <test-method signature="AccountReport14()[pri:0, instance:com.training.testcases.AccountTest@71075444]" started-at="2024-04-17T18:12:31Z" name="AccountReport14" finished-at="2024-04-17T18:12:36Z" duration-ms="5707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountReport14 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.training.testcases.AccountTest@71075444]" started-at="2024-04-17T18:12:36Z" name="beforeMethod" finished-at="2024-04-17T18:12:36Z" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="accountNewViewcreation11()[pri:0, instance:com.training.testcases.AccountTest@71075444]" started-at="2024-04-17T18:12:36Z" name="accountNewViewcreation11" finished-at="2024-04-17T18:12:40Z" duration-ms="3501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountNewViewcreation11 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.training.testcases.AccountTest@71075444]" started-at="2024-04-17T18:12:40Z" name="beforeMethod" finished-at="2024-04-17T18:12:40Z" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="accountcreation10()[pri:0, instance:com.training.testcases.AccountTest@71075444]" started-at="2024-04-17T18:12:40Z" name="accountcreation10" finished-at="2024-04-17T18:12:45Z" duration-ms="4748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountcreation10 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.training.testcases.AccountTest@71075444]" started-at="2024-04-17T18:12:45Z" name="beforeMethod" finished-at="2024-04-17T18:12:45Z" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="editviewname12()[pri:0, instance:com.training.testcases.AccountTest@71075444]" started-at="2024-04-17T18:12:45Z" name="editviewname12" finished-at="2024-04-17T18:12:47Z" duration-ms="2441" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=123.0.6312.106)
+              <![CDATA[Cannot locate element with text: newViewname
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'SHIGALAPTOP', ip: '192.168.1.233', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\shiga\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65340}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 6ccf274e8c1a38837ffa8b6f05baa149]]>
+Driver info: driver.version: unknown]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=123.0.6312.106)
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate element with text: newViewname
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'SHIGALAPTOP', ip: '192.168.1.233', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\shiga\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65340}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 6ccf274e8c1a38837ffa8b6f05baa149
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
-	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)
-	at com.training.base.BasePage.SwitchParentwind(BasePage.java:88)
-	at com.training.pages.RandomScenarioPage.RandowParentSwichBack(RandomScenarioPage.java:148)
-	at com.training.testcases.RandomScenarioTest.monthviewEvent37(RandomScenarioTest.java:129)
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:147)
+	at com.training.base.BasePage.selectText(BasePage.java:92)
+	at com.training.pages.AccountPage.selectview(AccountPage.java:111)
+	at com.training.testcases.AccountTest.editviewname12(AccountTest.java:88)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -74,11 +80,19 @@ Session ID: 6ccf274e8c1a38837ffa8b6f05baa149
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- monthviewEvent37 -->
-      </class> <!-- com.training.testcases.RandomScenarioTest -->
+        </test-method> <!-- editviewname12 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.training.testcases.AccountTest@71075444]" started-at="2024-04-17T18:12:47Z" name="beforeMethod" finished-at="2024-04-17T18:12:47Z" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="mergeAccount13()[pri:0, instance:com.training.testcases.AccountTest@71075444]" started-at="2024-04-17T18:12:47Z" name="mergeAccount13" finished-at="2024-04-17T18:12:51Z" duration-ms="3407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mergeAccount13 -->
+      </class> <!-- com.training.testcases.AccountTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

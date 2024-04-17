@@ -90,10 +90,7 @@ WebElement continueEle;
 		public void contactTable() {
 			clickElement(table);
 		}
-		public void contactSwitchParrentWindow() {
-			String parent=contactCurrentWindow();
-		switchToparentWndow(parent);
-		}
+		
 		@FindBy(xpath="(//input[@name='save'])[1]")
 		WebElement save;
 
